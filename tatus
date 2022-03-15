@@ -1,0 +1,64 @@
+[33mcommit 6dfdb31cd7e82e3508bce1c178120538acd1d81d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Mon Mar 14 21:15:31 2022 -0600
+
+    Commit al master del blogpost en su version mas reciente
+
+ blogpost.html | 2 [32m+[m[31m-[m
+ historia.txt  | 2 [32m+[m[31m-[m
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 2c6097464ce5447570891c1e8b472f61e6f726ee[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Thu Mar 10 18:37:11 2022 -0600
+
+    Reemplazo de una version por otra de la historia
+
+ historia.txt | 5 [32m++[m[31m---[m
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+[33mcommit ccaf1aded36a7e3fd442788ee8b7b6d2bf6e4ba5[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Thu Mar 10 18:15:13 2022 -0600
+
+    Cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit ef0193baa2ff8c573f3f309b4ffe39e0b4bf4f4c[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Thu Mar 10 18:14:18 2022 -0600
+
+    cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit b3baf6b08c076093f67e4ef836194d38a6326fc4[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Thu Mar 10 18:13:02 2022 -0600
+
+    Arranco mi proyecto real con html y css
+
+ CSS/Estilos.css |  6 [32m++++++[m
+ blogpost.html   | 10 [32m++++++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 612a935f24c2bab60fd000493a14229351375e59[m
+Author: Luis David Tolentino Barrera <luisdavidtolentino@gmail.com>
+Date:   Thu Mar 10 16:51:38 2022 -0600
+
+    Commit 2, cambios al archivo de historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit d90f34818394006e98cccb9778f197cd21acf598[m
+Author: Tole01 <93158502+Tole01@users.noreply.github.com>
+Date:   Thu Mar 10 16:28:40 2022 -0600
+
+    Este es el primer commit del archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
